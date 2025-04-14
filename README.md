@@ -16,13 +16,12 @@
   <img align="center" alt="Weszz-bash" height="30" width="40" src="https://www.svgrepo.com/show/361365/terminal-bash.svg">
   <img align="center" alt="Weszz-Cpp" height="30" width="40" src="https://www.svgrepo.com/show/452183/cpp.svg">
   <img align="center" alt="Weszz-Csharp" height="30" width="40" src="https://www.svgrepo.com/show/452184/csharp.svg">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="right" alt="Weszz-jpeg" height="70" width="110" src="https://i.pinimg.com/736x/58/e1/bb/58e1bbfe7ba3d60c4b40adb943228045.jpg">
 </div>
   
-  ##
- 
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 <div> 
-  
- <a href="https://discord.gg/v3beb87qaK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://discord.gg/v3beb87qaK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
 </div>
