@@ -13,9 +13,9 @@
 </picture>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Weszz-Csharp" height="30" width="40" src="">
-  <img align="center" alt="Weszz-Csharp" height="30" width="40" src="https://www.svgrepo.com/show/452183/cpp.svg">
-  <img align="center" alt="Weszz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Weszz-bash" height="30" width="40" src="https://www.svgrepo.com/show/361365/terminal-bash.svg">
+  <img align="center" alt="Weszz-Cpp" height="30" width="40" src="https://www.svgrepo.com/show/452183/cpp.svg">
+  <img align="center" alt="Weszz-Csharp" height="30" width="40" src="https://www.svgrepo.com/show/452184/csharp.svg">
 </div>
   
   ##
