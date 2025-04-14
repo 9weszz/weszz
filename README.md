@@ -19,8 +19,12 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="right" alt="Weszz-jpeg" height="70" width="110" src="https://i.pinimg.com/736x/58/e1/bb/58e1bbfe7ba3d60c4b40adb943228045.jpg">
 </div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/9weszz/9weszz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/9weszz/9weszz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/9weszz/9weszz/output/github-snake.svg" />
+</picture>
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 <div> 
   <a href="https://discord.gg/v3beb87qaK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
