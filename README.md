@@ -20,7 +20,7 @@
   <img align="right" alt="Weszz-jpeg" height="70" width="110" src="https://i.pinimg.com/736x/58/e1/bb/58e1bbfe7ba3d60c4b40adb943228045.jpg">
 </div>
 
-</picture>
+⛧ https://zyo.se/weszz
   
 <div> 
   <a href="https://discord.gg/v3beb87qaK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
